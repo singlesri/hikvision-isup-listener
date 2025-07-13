@@ -19915,3 +19915,300 @@
 	}
 }
 
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:52:38+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 75,
+    "name": "sri",
+    "cardReaderKind": 1,
+    "cardReaderNo": 1,
+    "doorNo": 1,
+    "verifyNo": 165,
+    "employeeNoString": "1",
+    "serialNo": 667,
+    "userType": "normal",
+    "currentVerifyMode": "faceOrPw",
+    "frontSerialNo": 666,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "no",
+    "picturesNumber": 1,
+    "purePwdVerifyEnable": true,
+    "FaceRect": {
+      "height": 0.38,
+      "width": 0.214,
+      "x": 0.42,
+      "y": 0.414
+    }
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:52:38+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 21,
+    "cardReaderKind": 1,
+    "doorNo": 1,
+    "serialNo": 668,
+    "currentVerifyMode": "invalid",
+    "frontSerialNo": 667,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "purePwdVerifyEnable": true
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:52:43+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 22,
+    "cardReaderKind": 1,
+    "doorNo": 1,
+    "serialNo": 669,
+    "currentVerifyMode": "invalid",
+    "frontSerialNo": 668,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "purePwdVerifyEnable": true
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:53:35+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 75,
+    "name": "sri",
+    "cardReaderKind": 1,
+    "cardReaderNo": 1,
+    "doorNo": 1,
+    "verifyNo": 171,
+    "employeeNoString": "1",
+    "serialNo": 670,
+    "userType": "normal",
+    "currentVerifyMode": "faceOrPw",
+    "frontSerialNo": 669,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "no",
+    "picturesNumber": 1,
+    "purePwdVerifyEnable": true,
+    "FaceRect": {
+      "height": 0.335,
+      "width": 0.188,
+      "x": 0.499,
+      "y": 0.623
+    }
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:53:35+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 21,
+    "cardReaderKind": 1,
+    "doorNo": 1,
+    "serialNo": 671,
+    "currentVerifyMode": "invalid",
+    "frontSerialNo": 670,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "purePwdVerifyEnable": true
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:53:40+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 22,
+    "cardReaderKind": 1,
+    "doorNo": 1,
+    "serialNo": 672,
+    "currentVerifyMode": "invalid",
+    "frontSerialNo": 671,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "purePwdVerifyEnable": true
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:53:49+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 75,
+    "name": "sri",
+    "cardReaderKind": 1,
+    "cardReaderNo": 1,
+    "doorNo": 1,
+    "verifyNo": 177,
+    "employeeNoString": "1",
+    "serialNo": 673,
+    "userType": "normal",
+    "currentVerifyMode": "faceOrPw",
+    "frontSerialNo": 672,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "no",
+    "picturesNumber": 1,
+    "purePwdVerifyEnable": true,
+    "FaceRect": {
+      "height": 0.315,
+      "width": 0.177,
+      "x": 0.483,
+      "y": 0.45
+    }
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:53:49+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 21,
+    "cardReaderKind": 1,
+    "doorNo": 1,
+    "serialNo": 674,
+    "currentVerifyMode": "invalid",
+    "frontSerialNo": 673,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "purePwdVerifyEnable": true
+  }
+}
+
+{
+  "ipAddress": "192.168.5.100",
+  "portNo": 8888,
+  "protocol": "HTTP",
+  "macAddress": "98:df:82:8c:da:3a",
+  "channelID": 1,
+  "dateTime": "1970-01-01T06:53:54+05:30",
+  "activePostCount": 1,
+  "eventType": "AccessControllerEvent",
+  "eventState": "active",
+  "eventDescription": "Access Controller Event",
+  "deviceID": "K1T331A",
+  "AccessControllerEvent": {
+    "deviceName": "Access Controller",
+    "majorEventType": 5,
+    "subEventType": 22,
+    "cardReaderKind": 1,
+    "doorNo": 1,
+    "serialNo": 675,
+    "currentVerifyMode": "invalid",
+    "frontSerialNo": 674,
+    "attendanceStatus": "undefined",
+    "label": "",
+    "statusValue": 0,
+    "mask": "unknown",
+    "purePwdVerifyEnable": true
+  }
+}
+
