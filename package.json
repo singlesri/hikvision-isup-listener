@@ -12,6 +12,8 @@
   "dependencies": {
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
-    "multer": "^2.0.1"
+    "multer": "^2.0.1",
+    "mysql2": "^3.14.2",
+    "raw-body": "^3.0.0"
   }
 }
